@@ -1,2 +1,2 @@
-# ibm_ml_Study
-IBM Machine learning study
+# Coursera IBM Machine learning self study
+IBM Machine learning self study
